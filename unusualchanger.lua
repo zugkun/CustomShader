@@ -5,7 +5,7 @@
   | |_| | (_) |  __/\ V / (_| | | | |    
    \___/ \___/ \___| \_/ \__,_|_| |_|    
   ============================================
-             JOEVAN OBFUSCATOR V17
+             JOEVAN OBFUSCATOR V17 FIXED
                  DO NOT CRACK
     Discord : https://discord.gg/gBMCcCjmJM   
   ============================================
