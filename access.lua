@@ -10,7 +10,7 @@
   "whitelistPremium": true,
   "banMessage": "Your account has been blacklisted from Joevan Shader.",
   "contact": "@joevan66",
-  "blacklist": [],
+  "blacklist": [U25vd0FyY3RpY3M,QkhPUDI0MEha,VTIwWTI,YW5ha2hhcmFtY3V5MTE],
   "whitelist": [],
   "dev": []
 }
