@@ -11,10 +11,10 @@
   "banMessage": "Your account has been blacklisted from Joevan Shader.",
   "contact": "@joevan66",
   "blacklist": [
-    "U25vd0FyY3RpY3M",
-    "QkhPUDI0MEha",
-    "VTIwWTI",
-    "YW5ha2hhcmFtY3V5MTE"
+    "4751867065",
+    "120994920",
+    "2921292253",
+    "10022602866"
   ],
   "whitelist": [],
   "dev": []
